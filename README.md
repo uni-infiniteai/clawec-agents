@@ -2,7 +2,7 @@
 
 ## 关于 clawEC
 
-**clawEC** 是一款面向跨境电商场景的 AI 智能体协同平台，以「你的跨境电商 AI 团队」为品牌主张，将选品、调研、运营、上架、营销、客服、采购、合规等环节沉淀为可执行的 SOP（标准作业程序），通过多智能体（「虾员工」）分工协作与 7×24 小时自动化任务，帮助卖家在单人或少人条件下完成跨境业务闭环，降低对专业运营团队与复杂本地部署的依赖。
+**clawEC Work** 是 AI 驱动的跨境电商工作台：说出要求、开始执行任务、交付完整成果。无缝连接 Amazon、TikTok、Shopee、Ozon 等主流平台，自主规划并调用工具生成选品报告与素材，你的跨境好搭子。把选品、分析、内容、运营的重复任务交给 clawEC Work，把判断和创造力留给自己。
 
 官网：[https://www.clawec.com/?source=q-github-agent](https://www.clawec.com/?source=q-github-agent)
 
